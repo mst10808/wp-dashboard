@@ -1,0 +1,53 @@
+#left-col {
+    position: fixed;
+    width: 250px;
+    margin: 0px;
+    height: 100%;
+    float: left;
+    background: #000;
+}
+
+#title {
+    display: block;
+    padding: 10px;
+    margin: 10px 0px 0px 0px;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#navi {
+    list-style: none;
+    padding: 0px;
+    margin: 0px 0px 0px 25px;
+}
+
+#navi li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.2em;
+}
+
+#navi a:link {color: #fff; text-decoration: none;}
+#navi a:hover {color: #fff; text-decoration: underline;}
+#navi a:visited {color: #fff; text-decoration: none;}
+
+#wp-logo {
+    margin: 20px 0px 0px 40px;
+    padding: 0px;
+}
+
+#data {
+    float: left;
+    margin: 0 0 0 280px;
+    width: 1000px;
+}
+
+.site-col {
+    width: 300px;
+}
+
+.status-col {
+    width: 150px;
+}
